@@ -29,7 +29,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
+<!--
 ---
 
 ### 🚀 Proyectos destacados
@@ -53,7 +53,7 @@ Página con enlaces a redes sociales estilo Linktree
 📌 **Ejercicios de lógica en Python**  
 Desafíos de programación y pensamiento lógico  
 🔗 [Ver repositorio](https://github.com/YesidLM12/python-logica-ejercicios)
-
+-->
 ---
 
 ### 📬 Conectemos
