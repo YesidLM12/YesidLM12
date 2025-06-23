@@ -58,7 +58,7 @@ Desafíos de programación y pensamiento lógico
 
 ### 📬 Conectemos
 
-📧 yesidfabian12@outlook.com  
+📧 yesidlondono342@gmail.com
 📱 3053722190  
 🌐 [GitHub](https://github.com/YesidLM12)
 
