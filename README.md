@@ -71,48 +71,10 @@ APIs enfocadas en rendimiento y validación de datos.
 
 ## 📫 Contacto
 
-- 📧 Email: yesidfabian12@outlook.com  
-- 🧑‍💻 GitHub: https://github.com/YesidLM12  
+- 📧 Email: yesidfabian12@outlook.com   
 
 ---
 
 > “El backend no se luce en la interfaz, se demuestra cuando todo funciona.”
 ---
 
-### 🚀 Proyectos destacados
-
-📌 **Profile Card**  
-Pequeña tarjeta web con mi perfil y enlaces  
-🔗 [Ver repositorio](https://github.com/YesidLM12/profile-card)
-
-📌 **Freelancer Website**  
-Sitio web tipo portafolio para practicar HTML y CSS  
-🔗 [Ver repositorio](https://github.com/YesidLM12/freelancer-website)
-
-📌 **Landing Page**  
-Landing para agencia digital, enfocada en estructura y diseño  
-🔗 [Ver repositorio](https://github.com/YesidLM12/landing-page)
-
-📌 **My LinkTree**  
-Página con enlaces a redes sociales estilo Linktree  
-🔗 [Ver repositorio](https://github.com/YesidLM12/my-linktree)
-
-📌 **Ejercicios de lógica en Python**  
-Desafíos de programación y pensamiento lógico  
-🔗 [Ver repositorio](https://github.com/YesidLM12/python-logica-ejercicios)
--->
----
-
-### 📬 Conectemos
-
-📧 yesidlondono342@gmail.com  
-📱 3053722190  
-🌐 [GitHub](https://github.com/YesidLM12)
-
----
-
-<p align="center">
-  Gracias por pasar por aquí 👋  
-  <br>
-  <em>“Aprendiendo sin prisa, pero sin pausa.”</em>
-</p>
